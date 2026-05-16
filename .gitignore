@@ -1,0 +1,15 @@
+# Compiled C++ Executables
+ai
+*.o
+*.out
+
+# Python Virtual Environment
+python_env/
+__pycache__/
+
+# Datasets and Temp Files
+*-ubyte
+custom_digit.txt
+
+# OS generated files
+.DS_Store
